@@ -103,6 +103,7 @@
     randomnum();
     setisvissble2(false);
     setchances(3);
+    setscore(0);
     setisvisible4(false);
     setisvissble3(false);
   }
